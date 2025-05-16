@@ -117,6 +117,6 @@ Distributed under the `MIT License`.
 
 ### ✉️ Contact
 - Name: Ezra H
-- Email: projects@ezrahernowo.com
+- Email: project@ezrahernowo.com
 - LinkedIn: linkedin.com/in/ezrahernowo
-- GitHub: github.com/zeaalots
+- GitHub: github.com/1bytess
