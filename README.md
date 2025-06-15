@@ -116,7 +116,7 @@ Distributed under the `MIT License`.
 - Inspiration from best practices in README writing by Tom Preston-Werner and the GitHub Docs team 
 
 ### ✉️ Contact
-- Name: Ezra H
+- Name: Ezra H (1bytess)
 - Email: project@ezrahernowo.com
-- LinkedIn: linkedin.com/in/ezrahernowo
+- LinkedIn: [linkedin.com/in/ezrahernowo](www.linkedin.com/id/ezrahernowo)
 - GitHub: github.com/1bytess
